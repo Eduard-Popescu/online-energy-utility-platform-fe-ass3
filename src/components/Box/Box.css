@@ -1,0 +1,39 @@
+.containerBox {
+  width: 200px;
+  height: 250px;
+  box-shadow: #a1b9f5 0px 0px 16px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.containerDetails {
+  width: 200px;
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.containerButtons {
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.removeButton {
+  border: none;
+  background-color: white;
+}
+
+.buttonStyle {
+  width: 35px;
+  height: 35px;
+}
+
+.all {
+  margin-top: 30px;
+}

@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+  demo-fe:
+    image: fe
+    container_name: demo-fe
+    build:
+      context: /.
+    ports:
+      - "3000:3000"
+    stdin_open: true

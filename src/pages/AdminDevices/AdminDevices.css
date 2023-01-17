@@ -1,0 +1,11 @@
+.adminContainer {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.adminContainer{
+    flex-flow: wrap;
+}

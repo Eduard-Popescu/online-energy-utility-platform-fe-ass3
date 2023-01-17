@@ -1,0 +1,27 @@
+.chartContainer{
+    display: flex;
+    align-self: center;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+
+.secondContainer {
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    justify-content: center;
+}
+
+.pageContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.absolute{
+    position: absolute;
+    top: 100px;
+    right: 40px;
+    left: 40px;
+}

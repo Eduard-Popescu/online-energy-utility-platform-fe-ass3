@@ -1,0 +1,9 @@
+.buttonAdmin {
+    Width: 400px;
+    height: 70px;
+    background-color: #294FAF;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+}

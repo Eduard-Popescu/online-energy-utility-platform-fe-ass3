@@ -1,0 +1,10 @@
+/* .all {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+.all {
+    margin-top: 30px;
+}
